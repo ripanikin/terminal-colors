@@ -6,7 +6,7 @@ int main(void) {
     print_divider();
 
     
-    printf("System Status: ");
+   
     set_text_color(GREEN);
     printf("ONLINE\n");
     reset_text_color();
